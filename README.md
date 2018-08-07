@@ -29,4 +29,4 @@ minArea = 1000;
 
 maxArea = 10000;
 
-Para  mais informações leia o slide.
+*Para  mais informações leia o slide!*
